@@ -1,6 +1,6 @@
 # Hello World, I'm Matías! 👋🌎 
 ### About me!
-I'm a Data Science student from Argentina 🇦🇷 passionate about solving real-world problems through data. I'm currently building personal projects to apply what I learn and develop solid technical skills. Some more things:
+I'm a Data Science student from Argentina passionate about solving real-world problems through data. I'm currently building personal projects to apply what I learn and develop solid technical skills. Some more things:
 - 🧠 I enjoy working with..
   - ***Python*** for scripting, data cleaning, and building prototypes.
   - ***Power BI*** for creating dashboards that communicate insights clearly.
