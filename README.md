@@ -1,4 +1,8 @@
-# Hello World, I'm Matías! 👋🌎 
+
+<h1 align="center"><b>Hello World, I'm Matías! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+---
+
 ## About me!  
 
 I'm a Data Science student from Argentina, passionate about solving real-world problems using data. I'm currently building personal projects to apply what I learn and develop solid technical skills. Some more things:
