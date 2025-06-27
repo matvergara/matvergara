@@ -18,7 +18,7 @@ Soy estudiante de Ciencia de Datos en Argentina, apasionado por resolver problem
 Siempre estoy abierto a recibir feedback, colaborar o simplemente conectar con personas del ámbito. ¡Aprendamos y crezcamos juntos!
 
 
-## Stack Tecnológico 💼
+## 💼 Stack Tecnológico 
 
 <h3> Lenguajes </h3>
 <span>
