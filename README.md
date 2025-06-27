@@ -34,13 +34,13 @@ Siempre estoy abierto a recibir feedback, colaborar o simplemente conectar con p
   <img src= "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </span>
 
-<h4> Visualización y Exploración de Datos </h4>
+<h3> Visualización y Exploración de Datos </h3>
 <span>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </span>
 
-<h4> Herramientas </h4>
+<h3> Herramientas </h3>
 <span>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
