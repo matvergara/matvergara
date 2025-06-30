@@ -5,7 +5,7 @@
 ## 🌠 Sobre mí  
 
 Soy estudiante de Ciencia de Datos en Argentina, apasionado por resolver problemas del mundo real usando datos. Actualmente estoy desarrollando proyectos personales para aplicar lo que aprendo y fortalecer mis habilidades técnicas. Algunas cosas más sobre mí:
-- 🧠 Disfruto trabajar con...
+- 🧠 Trabajo con...
   - ***Python*** para automatización, limpieza de datos y prototipos.
   - ***Power BI*** para crear dashboards que comuniquen hallazgos de forma clara.
   - ***R*** cuando necesito hacer análisis estadístico o exploración profunda de datos.
