@@ -6,10 +6,10 @@
 
 Soy estudiante de Ciencia de Datos en Argentina, apasionado por resolver problemas del mundo real usando datos. Actualmente estoy desarrollando proyectos personales para aplicar lo que aprendo y fortalecer mis habilidades técnicas. Algunas cosas más sobre mí:
 - 🧠 Trabajo con...
-  - ***Python*** para automatización, limpieza de datos y prototipos.
+  - ***Python*** para automatización, limpieza y analisis de datos, entrenamiento y comparación de modelos de ML.
+  - ***SQL*** para extraer y manipular datos de bases relacionales con eficiencia.
   - ***Power BI*** para crear dashboards que comuniquen hallazgos de forma clara.
   - ***R*** cuando necesito hacer análisis estadístico o exploración profunda de datos.
-  - ***SQL*** para extraer y manipular datos de bases relacionales con eficiencia.
   - ***Jupyter Notebooks*** para documentar procesos y compartir resultados de forma interactiva.
 - 📊 Actualmente me enfoco en pulir mis conocimientos en estadística Machine Learning.
 - 🚀 Estoy buscando activamente mi primera pasantía o posición junior en análisis de datos.
